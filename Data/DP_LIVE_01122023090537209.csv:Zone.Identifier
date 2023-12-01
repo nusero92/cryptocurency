@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.oecd.org/price/inflation-cpi.htm
+HostUrl=https://stats.oecd.org/sdmx-json/data/DP_LIVE/BRA+CHN+IND+OECD+RUS+ZAF.CPI.TOT+FOOD+ENRG+TOT_FOODENRG.AGRWTH.A/OECD?contentType=csv&detail=code&separator=comma&csv-lang=en&startPeriod=2018
